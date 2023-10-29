@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to J2Store Migration](https://d2d-soft.com/j2store-migration/768-7245-americommerce-to-j2store-migration-tool.html#/72-entities-1000)
+- [Bagisto to J2Store Migration](https://d2d-soft.com/j2store-migration/934-8953-bagisto-to-j2store-migration-tool.html#/72-entities-1000)
 - [BigCommerce to J2Store Migration](https://d2d-soft.com/j2store-migration/532-2227-bigcommerce-to-j2store-migration-tool.html#/72-entities-1000)
 - [CS-Cart to J2Store Migration](https://d2d-soft.com/j2store-migration/529-2217-cs-cart-to-j2store-migration-tool.html#/72-entities-1000)
 - [CubeCart to J2Store Migration](https://d2d-soft.com/j2store-migration/516-2152-cubecart-to-j2store-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
