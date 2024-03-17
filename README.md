@@ -2,6 +2,7 @@
 [J2Store Data Migration Tool](https://d2d-soft.com/40-j2store-migration) is a solution for migrating data to J2Store from the another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AbanteCart to J2Store Migration](https://d2d-soft.com/j2store-migration/1121-10859-abantecart-to-j2store-migration-tool.html#/72-entities-1000)
 - [AmeriCommerce to J2Store Migration](https://d2d-soft.com/j2store-migration/768-7245-americommerce-to-j2store-migration-tool.html#/72-entities-1000)
 - [Bagisto to J2Store Migration](https://d2d-soft.com/j2store-migration/934-8953-bagisto-to-j2store-migration-tool.html#/72-entities-1000)
 - [BigCommerce to J2Store Migration](https://d2d-soft.com/j2store-migration/532-2227-bigcommerce-to-j2store-migration-tool.html#/72-entities-1000)
@@ -36,6 +37,7 @@
 - [ZenCart to J2Store Migration](https://d2d-soft.com/j2store-migration/528-2212-zencart-to-j2store-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AbanteCart](https://www.abantecart.com/)
 - [AmeriCommerce](https://www.americommerce.com/)
 - [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
