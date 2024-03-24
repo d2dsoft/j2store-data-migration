@@ -21,6 +21,7 @@
 - [MarketPress to J2Store Migration](https://d2d-soft.com/j2store-migration/566-2382-marketpress-to-j2store-migration-tool.html#/72-entities-1000)
 - [OpenCart to J2Store Migration](https://d2d-soft.com/j2store-migration/519-2167-opencart-to-j2store-migration-tool.html#/72-entities-1000)
 - [osCommerce to J2Store Migration](https://d2d-soft.com/j2store-migration/520-2172-oscommerce-to-j2store-migration-tool.html#/72-entities-1000)
+- [osCMax to J2Store Migration](https://d2d-soft.com/j2store-migration/1188-11542-oscmax-to-j2store-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to J2Store Migration](https://d2d-soft.com/j2store-migration/521-2177-oxid-eshop-to-j2store-migration-tool.html#/72-entities-1000)
 - [PrestaShop to J2Store Migration](https://d2d-soft.com/j2store-migration/522-2182-prestashop-to-j2store-migration-tool.html#/72-entities-1000)
 - [Salesforce to J2Store Migration](https://d2d-soft.com/j2store-migration/716-6704-salesforce-to-j2store-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
